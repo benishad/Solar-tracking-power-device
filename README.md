@@ -1,4 +1,4 @@
-# Solar-tracking-power-device / 제작기
+# Solar-tracking-power-device / 제작기 with Johnny Yoon
 It tracks the sun and charges the battery.
 
 - [3D출력_및_조립](#3D출력_및_조립)
@@ -108,3 +108,4 @@ It tracks the sun and charges the battery.
   
   <img src="https://user-images.githubusercontent.com/50231941/222905916-35ac8c61-583e-4c1f-9a81-c75987dd3878.jpg" width="500" height="500"/>
   <img src="https://user-images.githubusercontent.com/50231941/222910611-d4d92071-fa9c-47b5-b078-b318a094fd3e.gif" width="500" height="500"/>
+  <img src="https://user-images.githubusercontent.com/50231941/222911941-a0626e23-8bf0-43f0-a3b3-1ffc4804b28a.gif" width="500" height="500"/>
