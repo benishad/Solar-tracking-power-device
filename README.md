@@ -107,4 +107,4 @@ It tracks the sun and charges the battery.
 # 최종_완성
   
   <img src="https://user-images.githubusercontent.com/50231941/222905916-35ac8c61-583e-4c1f-9a81-c75987dd3878.jpg" width="500" height="500"/>
-  <img src="https://user-images.githubusercontent.com/50231941/222908624-ef862a14-9503-474e-9279-a3a442bbb9dc.gif">
+  <img src="https://user-images.githubusercontent.com/50231941/222910611-d4d92071-fa9c-47b5-b078-b318a094fd3e.gif" width="500" height="500"/>
