@@ -3,7 +3,7 @@ It tracks the sun and charges the battery.
 
 ---
 
-## 준비(파츠 출력) 및 조립
+# 준비(파츠 출력) 및 조립
 
   <img src="https://user-images.githubusercontent.com/50231941/222904586-66fac064-5519-48f8-a294-2118472f66ad.jpg" width="500" height="500"/>
 
@@ -32,7 +32,7 @@ It tracks the sun and charges the battery.
 
 ---
 
-    ## 회로
+## 회로
   
   * 회로 복사
   
@@ -53,7 +53,7 @@ It tracks the sun and charges the battery.
   
 ---
   
-## 1차완성 및 수정
+# 1차완성 및 수정
   
   <img src="https://user-images.githubusercontent.com/50231941/222905619-c0827048-19c8-4410-9b4d-7dc702b814b9.jpg" width="500" height="500"/>
   
@@ -90,8 +90,8 @@ It tracks the sun and charges the battery.
   <img src="https://user-images.githubusercontent.com/50231941/222905899-9111e2bc-dd1d-4122-a0a2-037adc7dadd1.jpg" width="500" height="500"/>
   <img src="https://user-images.githubusercontent.com/50231941/222905905-26da0b7c-0b27-4d2b-b8c8-9e278ae5462a.jpg" width="500" height="500"/>
   
-  ---
+---
   
-  ## 최종 완성
+# 최종 완성
   
   <img src="https://user-images.githubusercontent.com/50231941/222905916-35ac8c61-583e-4c1f-9a81-c75987dd3878.jpg" width="500" height="500"/>
