@@ -14,7 +14,7 @@ It tracks the sun and charges the battery.
    * 엔더3pro
    * hotend 195 / bed 60
    * pla++
-   * infill 8%
+   * infill 15%
    * skirt
 
 ---
