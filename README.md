@@ -1,6 +1,14 @@
 # Solar-tracking-power-device / 제작기
 It tracks the sun and charges the battery.
 
+- [준비(파츠 출력) 및 조립](#준비(파츠 출력) 및 조립)
+  - [회로](#회로)
+  - [다리_출력](#다리_출력)
+- [1차완성_및_수정](#1차완성_및_수정)
+  - [브러쉬_조립](#브러쉬_조립)
+  - [수정](#수정)
+- [최종_완성](#최종_완성)
+
 ---
 
 # 준비(파츠 출력) 및 조립
@@ -42,7 +50,7 @@ It tracks the sun and charges the battery.
 
 ---
 
-## 다리 출력
+## 다리_출력
   
   <img src="https://user-images.githubusercontent.com/50231941/222905525-4ddc9818-6d1f-4f27-9c14-42cb97104868.jpg" width="500" height="500"/>
   
@@ -53,7 +61,7 @@ It tracks the sun and charges the battery.
   
 ---
   
-# 1차완성 및 수정
+# 1차완성_및_수정
   
   <img src="https://user-images.githubusercontent.com/50231941/222905619-c0827048-19c8-4410-9b4d-7dc702b814b9.jpg" width="500" height="500"/>
   
@@ -72,7 +80,9 @@ It tracks the sun and charges the battery.
   
   <img src="https://user-images.githubusercontent.com/50231941/222905736-b1204581-e49a-4209-ab12-ef765d73b192.jpg" width="500" height="500"/>
   
-## 브러쉬 조립
+---
+  
+## 브러쉬_조립
   
   <img src="https://user-images.githubusercontent.com/50231941/222905753-46208485-c51a-4510-8145-61ecc4d9aaeb.jpg" width="500" height="500"/>
   
@@ -80,7 +90,9 @@ It tracks the sun and charges the battery.
   
   <img src="https://user-images.githubusercontent.com/50231941/222905770-5e96fdd0-d1a0-4d37-b187-5ed41285f6f6.jpg" width="500" height="500"/>
   <img src="https://user-images.githubusercontent.com/50231941/222905823-5f4c4327-a1e5-46fb-a065-66c2471e2020.jpg" width="500" height="500"/>
-  
+
+---
+
 ## 수정
   
   <img src="https://user-images.githubusercontent.com/50231941/222905844-675e1840-8675-43bf-867f-8806ff6b1e60.jpg" width="500" height="500"/>
@@ -92,6 +104,6 @@ It tracks the sun and charges the battery.
   
 ---
   
-# 최종 완성
+# 최종_완성
   
   <img src="https://user-images.githubusercontent.com/50231941/222905916-35ac8c61-583e-4c1f-9a81-c75987dd3878.jpg" width="500" height="500"/>
