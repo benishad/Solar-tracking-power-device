@@ -10,7 +10,7 @@ It tracks the sun and charges the battery.
   리니어모터 조립
   
   <img src="https://user-images.githubusercontent.com/50231941/222904721-540489d2-41ba-413b-a83d-2204d7a4cf04.jpg" width="500" height="500"/>
-  <img src="(https://user-images.githubusercontent.com/50231941/222904743-d2a1cbba-1b49-4468-ae67-b4cee63d78e5.jpg" width="500" height="500"/>
+  <img src="https://user-images.githubusercontent.com/50231941/222904743-d2a1cbba-1b49-4468-ae67-b4cee63d78e5.jpg" width="500" height="500"/>
   
   포토레지스터 조립
   
