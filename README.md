@@ -1,7 +1,7 @@
 # Solar-tracking-power-device / 제작기
 It tracks the sun and charges the battery.
 
-- [준비(파츠 출력) 및 조립](#준비(파츠 출력) 및 조립)
+- [3D출력_및_조립](#3D출력_및_조립)
   - [회로](#회로)
   - [다리_출력](#다리_출력)
 - [1차완성_및_수정](#1차완성_및_수정)
@@ -11,7 +11,7 @@ It tracks the sun and charges the battery.
 
 ---
 
-# 준비(파츠 출력) 및 조립
+# 3D출력_및_조립
 
   <img src="https://user-images.githubusercontent.com/50231941/222904586-66fac064-5519-48f8-a294-2118472f66ad.jpg" width="500" height="500"/>
 
