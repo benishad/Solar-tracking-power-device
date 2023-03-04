@@ -7,30 +7,32 @@ It tracks the sun and charges the battery.
 
   <img src="https://user-images.githubusercontent.com/50231941/222904586-66fac064-5519-48f8-a294-2118472f66ad.jpg" width="500" height="500"/>
 
-  리니어모터 조립
+  * 리니어모터 조립
   
   <img src="https://user-images.githubusercontent.com/50231941/222904721-540489d2-41ba-413b-a83d-2204d7a4cf04.jpg" width="500" height="500"/>
   <img src="https://user-images.githubusercontent.com/50231941/222904743-d2a1cbba-1b49-4468-ae67-b4cee63d78e5.jpg" width="500" height="500"/>
   
-  포토레지스터 조립
+  * 포토레지스터 조립
   
   <img src="https://user-images.githubusercontent.com/50231941/222904821-062c8684-a624-401f-8027-7951e859b581.jpg" width="500" height="500"/>
   <img src="https://user-images.githubusercontent.com/50231941/222904916-be3a1c03-050b-4244-a926-991a93c0e7ef.jpg" width="500" height="500"/>
   <img src="https://user-images.githubusercontent.com/50231941/222904954-9024d09b-05ed-4af8-a0c2-09f5398c7e80.jpg" width="500" height="500"/>
   
-  온도 서미스터 조립
+  * 온도 서미스터 조립
   
   <img src="https://user-images.githubusercontent.com/50231941/222905059-a1621c61-da17-4764-ad4b-9b0cd4767070.jpg" width="500" height="500"/>
   
-  태양전지판 조립
+  * 태양전지판 조립
   
   <img src="https://user-images.githubusercontent.com/50231941/222905144-319f86c7-5a47-4cbc-b6df-7eff3904166e.jpg" width="500" height="500"/>
   
-  태양전지판 크기 수정
+  * 태양전지판 크기 수정
   
   <img src="https://user-images.githubusercontent.com/50231941/222905209-3f3301c9-f94f-4a38-be3c-c31a61bd5b63.jpg" width="500" height="500"/>
   
-  회로 복사
+  #### 회로
+  
+  * 회로 복사
   
   <img src="https://user-images.githubusercontent.com/50231941/222905314-324d93f7-20be-4ff5-b0c3-0abd27a8ad8d.jpg" width="500" height="500"/>
   <img src="https://user-images.githubusercontent.com/50231941/222905488-8af8bf76-f240-4de0-998e-c2c6852d0145.jpg" width="500" height="500"/>
