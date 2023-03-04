@@ -9,6 +9,13 @@ It tracks the sun and charges the battery.
   - [수정](#수정)
 - [최종_완성](#최종_완성)
   - [동작GIF](#GIF)
+  
+ * 사용 프린터 설정
+   * 엔더3pro
+   * hotend 195 / bed 60
+   * pla++
+   * infill 8%
+   * skirt
 
 ---
 
