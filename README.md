@@ -32,7 +32,7 @@ It tracks the sun and charges the battery.
 
 ---
 
-    #### 회로
+    ## 회로
   
   * 회로 복사
   
